@@ -1,20 +1,18 @@
-# Consumer_Complaints_Analysis
-Analysis of consumer complaints to identify trends and process improvements.
-
 # Consumer Complaints Analysis
 
-## Descrizione
-Questo progetto analizza i reclami dei consumatori per identificare trend, problematiche ricorrenti e opportunità di miglioramento nei processi aziendali.
+## Description
+This project analyzes consumer complaints to identify trends, recurring issues, and opportunities for process improvement.
 
-## Tecnologie
-- Excel per l'analisi e la visualizzazione dei dati
+## Included Files
+- **Consumer Complaints Analysis - Mario Filizzola.xlsx:** Dataset and analysis.
 
-## Risultati
-- Identificazione dei reclami più comuni.
-- Suggerimenti per migliorare la soddisfazione del cliente e ottimizzare i processi aziendali.
+## Objectives
+- Identify the most common complaints.  
+- Propose solutions to enhance customer satisfaction.  
+- Provide recommendations to optimize business processes.
 
-## File Inclusi
-- **Analisi dei reclami dei consumatori - Mario Filizzola.xlsx:** Dataset e analisi.
+## Tools
+- Microsoft Excel for data analysis and visualization.
 
-## Contatti
-Per ulteriori dettagli, non esitare a contattarmi.
+## Contact
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](filizzolamario@gmail.com).
